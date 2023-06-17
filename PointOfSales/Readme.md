@@ -1,5 +1,5 @@
 # **POINT OF SALES**
-## This is a complete Point of Sales (POS) project implemented using Java and MySQL. The project provides a comprehensive solution for managing sales transactions, inventory, and customer information within a retail environment.
+### This is a complete Point of Sales (POS) project implemented using Java and MySQL. The project provides a comprehensive solution for managing sales transactions, inventory, and customer information within a retail environment.
 
 
 ![Alternate Text](/PointOfSales/src/Home.png)
