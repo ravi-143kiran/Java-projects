@@ -69,7 +69,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 # License
 
-This project is licensed under the MIT License.
-
-[example link](http://example.com/ "Optional Title") in a sentence.
-
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
